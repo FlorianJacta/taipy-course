@@ -7,7 +7,7 @@
 Creating a web application using only Python with Taipy with this tutorial:
 
 <p align="center">
-  <a href="https://www.youtube.com/@alexandresajus" target="_blank">
+  <a href="https://youtu.be/4F-266YnTkM" target="_blank">
     <img src="media/yt-thumbnail.png" alt="Youtube Tutorial" width="50%"/>
   </a>
 </p>
