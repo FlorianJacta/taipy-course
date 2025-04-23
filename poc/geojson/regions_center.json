@@ -1,0 +1,15 @@
+{
+    "Auvergne-Rhône-Alpes": {"lat": 45.75, "lon": 4.85},
+    "Bourgogne-Franche-Comté": {"lat": 47.0, "lon": 5.3},
+    "Bretagne": {"lat": 48.2, "lon": -2.9},
+    "Centre-Val de Loire": {"lat": 47.6, "lon": 1.7},
+    "Corse": {"lat": 42.0, "lon": 9.0},
+    "Grand Est": {"lat": 48.6, "lon": 7.7},
+    "Hauts-de-France": {"lat": 50.4, "lon": 2.7},
+    "Île-de-France": {"lat": 48.85, "lon": 2.35},
+    "Normandie": {"lat": 49.2, "lon": 0.8},
+    "Nouvelle-Aquitaine": {"lat": 44.8, "lon": 0.5},
+    "Occitanie": {"lat": 43.6, "lon": 3.8},
+    "Pays de la Loire": {"lat": 47.5, "lon": -0.7},
+    "Provence-Alpes-Côte d'Azur": {"lat": 43.7, "lon": 6.0}
+}
